@@ -14,7 +14,4 @@ while staying up-to-date with the latest technologies. Always eager to learn, in
 
 ## 🔥 GitHub & Codeforces Stats
 ### **GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moaaz313&show_icons=true&theme=dark)
-
-### **Codeforces**
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=moaazahmed313)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandoXl&show_icons=true&theme=dark)
