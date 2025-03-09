@@ -1,9 +1,8 @@
-# Hi there! 👋 I'm Moaaz Ahmed
+# Hi there! 👋 I'm Mohammed Hossam
 
 🧑‍💻 **Computer Science & AI Student**  
-📍 **Benha University - Faculty of CS & AI**  
+📍 **Institute of Engineering and Technology  - Faculty of CS & AI**  
 🔬 **Department:** *Scientific Computing*  
-📱 **Mobile Application Developer (Flutter & More)*  
 
 ## 🚀 About Me
 I'm a **passionate software engineer** specializing in **mobile application development**, 
